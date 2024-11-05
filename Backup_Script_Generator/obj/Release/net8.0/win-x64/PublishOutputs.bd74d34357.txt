@@ -1,2 +1,0 @@
-C:\Users\MORF\source\repos\backup_script_generator\Backup Script Generator\Backup_Script_Generator\Backup_Script_Generator\bin\Release\net8.0\win-x64\publish\Backup_Script_Generator.pdb
-C:\Users\MORF\source\repos\backup_script_generator\Backup Script Generator\Backup_Script_Generator\Backup_Script_Generator\bin\Release\net8.0\win-x64\publish\Backup_Script_Generator.exe
