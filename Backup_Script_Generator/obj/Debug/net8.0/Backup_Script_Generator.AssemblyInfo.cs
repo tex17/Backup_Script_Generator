@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Backup_Script_Generator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3892ccebf19203393d9542768163123fb1687439")]
 [assembly: System.Reflection.AssemblyProductAttribute("Backup_Script_Generator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Backup_Script_Generator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
