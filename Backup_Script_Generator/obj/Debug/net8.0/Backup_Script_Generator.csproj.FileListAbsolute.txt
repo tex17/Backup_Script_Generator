@@ -1,0 +1,14 @@
+C:\Users\MORF\source\repos\backup_script_generator\Backup Script Generator\Backup_Script_Generator\Backup_Script_Generator\bin\Debug\net8.0\Backup_Script_Generator.exe
+C:\Users\MORF\source\repos\backup_script_generator\Backup Script Generator\Backup_Script_Generator\Backup_Script_Generator\bin\Debug\net8.0\Backup_Script_Generator.deps.json
+C:\Users\MORF\source\repos\backup_script_generator\Backup Script Generator\Backup_Script_Generator\Backup_Script_Generator\bin\Debug\net8.0\Backup_Script_Generator.runtimeconfig.json
+C:\Users\MORF\source\repos\backup_script_generator\Backup Script Generator\Backup_Script_Generator\Backup_Script_Generator\bin\Debug\net8.0\Backup_Script_Generator.dll
+C:\Users\MORF\source\repos\backup_script_generator\Backup Script Generator\Backup_Script_Generator\Backup_Script_Generator\bin\Debug\net8.0\Backup_Script_Generator.pdb
+C:\Users\MORF\source\repos\backup_script_generator\Backup Script Generator\Backup_Script_Generator\Backup_Script_Generator\obj\Debug\net8.0\Backup_Script_Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MORF\source\repos\backup_script_generator\Backup Script Generator\Backup_Script_Generator\Backup_Script_Generator\obj\Debug\net8.0\Backup_Script_Generator.AssemblyInfoInputs.cache
+C:\Users\MORF\source\repos\backup_script_generator\Backup Script Generator\Backup_Script_Generator\Backup_Script_Generator\obj\Debug\net8.0\Backup_Script_Generator.AssemblyInfo.cs
+C:\Users\MORF\source\repos\backup_script_generator\Backup Script Generator\Backup_Script_Generator\Backup_Script_Generator\obj\Debug\net8.0\Backup_Script_Generator.csproj.CoreCompileInputs.cache
+C:\Users\MORF\source\repos\backup_script_generator\Backup Script Generator\Backup_Script_Generator\Backup_Script_Generator\obj\Debug\net8.0\Backup_Script_Generator.dll
+C:\Users\MORF\source\repos\backup_script_generator\Backup Script Generator\Backup_Script_Generator\Backup_Script_Generator\obj\Debug\net8.0\refint\Backup_Script_Generator.dll
+C:\Users\MORF\source\repos\backup_script_generator\Backup Script Generator\Backup_Script_Generator\Backup_Script_Generator\obj\Debug\net8.0\Backup_Script_Generator.pdb
+C:\Users\MORF\source\repos\backup_script_generator\Backup Script Generator\Backup_Script_Generator\Backup_Script_Generator\obj\Debug\net8.0\Backup_Script_Generator.genruntimeconfig.cache
+C:\Users\MORF\source\repos\backup_script_generator\Backup Script Generator\Backup_Script_Generator\Backup_Script_Generator\obj\Debug\net8.0\ref\Backup_Script_Generator.dll

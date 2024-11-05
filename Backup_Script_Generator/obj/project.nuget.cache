@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nVM2j6s/l4VG0Ok/YzYmKOnoJW+bhG1Dy3rfCpoARhs38ktHXHXCOWWMWZReEyhKZF6HMSV4iPMpXCVbD3HX+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MORF\\source\\repos\\backup_script_generator\\Backup Script Generator\\Backup_Script_Generator\\Backup_Script_Generator\\Backup_Script_Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MORF\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\MORF\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.4\\microsoft.netcore.app.runtime.win-x64.8.0.4.nupkg.sha512",
+    "C:\\Users\\MORF\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.4.nupkg.sha512",
+    "C:\\Users\\MORF\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.4\\microsoft.aspnetcore.app.runtime.win-x64.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
